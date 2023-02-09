@@ -2,7 +2,7 @@
 
 ## FRETpredict
 
-The class for running the PRE calculations is `FRETpredict`.
+The class for running the FRET efficiency calculations from protein structures or trajectories is `FRETpredict`.
 
 Here is how to calculate FRET efficiencies from a single protein structure using the rotamer-library approach
 
